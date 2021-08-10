@@ -6,7 +6,7 @@ We will use this to come up solution using **design patterns** & modern features
 
 ### Applications
 
-[ ] Design TrueCaller - Repo
+[] Design TrueCaller - Repo
 [ ] Design Twitter - Repo
 [ ] Design Ride Sharing Application - Repo
 [ ] Design Bill Sharing/Expense Sharing like Splitwise - Repo
