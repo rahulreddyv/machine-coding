@@ -1,6 +1,6 @@
 # Machine Coding
 
-We will use this to come up solution using **design patterns** & modern features in *java*
+This is a collaboration to learn & contribute to **design patterns** & modern features in *java*
 
 ## Problems
 
