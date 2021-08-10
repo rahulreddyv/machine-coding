@@ -15,12 +15,12 @@ We will use this to come up solution using **design patterns** & modern features
 
 ### Games
 
-[ ] Design Tic Tac Toe - Repo
-[ ] Design Snake & Ladder - Repo
-[ ] Design Chess Game - Repo
+- [ ] Design Tic Tac Toe - Repo
+- [ ] Design Snake & Ladder - Repo
+- [ ] Design Chess Game - Repo
 
 ### Generic
 
-[ ] Design Elevator - Repo
-[ ] Design a configuration management system - Repo
-[ ] Design a cache - Repo
+- [ ] Design Elevator - Repo
+- [ ] Design a configuration management system - Repo
+- [ ] Design a cache - Repo
